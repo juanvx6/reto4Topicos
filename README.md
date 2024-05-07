@@ -4,7 +4,7 @@
 - Luis Felipe Urquijo Vargas
 - Juan Pablo Ramirez
 
-
+Link a video sustentacion: 
 Iniciamos creando una VPC en AWS, la cual va a tener 6 sub-redes 3 publicas y 3 privadas, esto con el fin de mantener una alta disponibilidad,
 pues si por algun motivo una zona no esta funcionando podemos referinos a la otra.
 
